@@ -1,3 +1,5 @@
 INDEX VERSION 1.134
+C:\Users\wogns\OneDrive\바탕 화면\깃허브 레포지토리\swaPractice\Myworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1838568866.index
+\swa01\src\main\java
 C:\Users\wogns\OneDrive\바탕 화면\깃허브 레포지토리\swaPractice\Myworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1336896058.index
 \swa01\src\main\java
