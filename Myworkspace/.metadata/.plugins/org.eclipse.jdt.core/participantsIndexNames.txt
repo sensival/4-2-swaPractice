@@ -7,3 +7,5 @@ C:\Users\wogns\OneDrive\바탕 화면\깃허브 레포지토리\swaPractice\Myworkspace\.met
 \swa01\src\main\java
 C:\Users\wogns\OneDrive\바탕 화면\깃허브 레포지토리\swaPractice\Myworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2207790222.index
 \swa01\src\main\java
+C:\Users\wogns\OneDrive\바탕 화면\깃허브 레포지토리\swaPractice\Myworkspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4104061976.index
+\swa01\src\main\java

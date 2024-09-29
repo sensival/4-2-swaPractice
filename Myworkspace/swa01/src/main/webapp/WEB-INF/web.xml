@@ -39,4 +39,14 @@
     <servlet-name>ProductController</servlet-name>
     <url-pattern>/pcontrol</url-pattern>
   </servlet-mapping>
+  <servlet>
+    <description></description>
+    <display-name>StudentController</display-name>
+    <servlet-name>StudentController</servlet-name>
+    <servlet-class>wk07.StudentController</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>StudentController</servlet-name>
+    <url-pattern>/studentControl</url-pattern>
+  </servlet-mapping>
 </web-app>
